@@ -10,6 +10,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        custom: ['Vazir', 'sans-serif']
+      }
       // colors: {
       //   background: 'hsl(var(--background))',
       //   foreground: 'hsl(var(--foreground))',
