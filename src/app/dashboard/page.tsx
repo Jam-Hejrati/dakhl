@@ -3,7 +3,7 @@ import React from 'react';
 export default function page() {
   return (
     <>
-      <div className='overflow-y-auto py-6 px-4 text-justify w-full h-full bg-slate-300'>
+      <div className='overflow-y-auto py-6 px-4 text-justify w-full h-full'>
         suscipit enim eius dicta nulla dignissimos ducimus nostrum! Saepe repudiandae deserunt expedita eius iusto culpa maxime, eveniet dignissimos
         blanditiis quaerat ex rem aliquid accusantium, ad labore eum? Veniam eligendi, eveniet, laudantium explicabo maxime quidem blanditiis iure
         corrupti, esse placeat adipisci quisquam laboriosam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati amet a possimus
