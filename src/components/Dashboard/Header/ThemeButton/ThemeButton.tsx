@@ -13,7 +13,7 @@ export default function ThemeButton() {
 
   return (
     <div>
-      <Button onClick={handleThemeChange} className='bg-transparent w-min min-w-fit py-1 px-2 ml-1'>
+      <Button onClick={handleThemeChange} isIconOnly className='ml-1 bg-transparent'>
         {theme === 'light' ? <DarkModeIcon /> : <LightModeIcon />}
       </Button>
     </div>

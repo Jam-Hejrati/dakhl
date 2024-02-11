@@ -1,12 +1,25 @@
 import SettingIcon from '@/src/icons/SettingIcon';
-import { Button } from '@nextui-org/react';
+import { Button, Divider, Dropdown, DropdownItem, DropdownMenu, DropdownSection, DropdownTrigger } from '@nextui-org/react';
 
 export default function SettingButton() {
   return (
     <div>
-      <Button className='bg-transparent w-min min-w-fit py-1 px-2 ml-1'>
-        <SettingIcon />
-      </Button>
+      <Dropdown dir='rtl'>
+        <DropdownTrigger>
+          <Button isIconOnly className='ml-2 bg-transparent'>
+            <SettingIcon />
+          </Button>
+        </DropdownTrigger>
+        <DropdownMenu aria-label='Static Actions'>
+          <DropdownItem key='profile'>پروفایل</DropdownItem>
+          <DropdownItem key='setting'>تنظیمات</DropdownItem>
+          <DropdownSection className='border-t-1 pt-1 mt-1 mb-0'>
+            <DropdownItem key='logout' className='text-danger' color='danger'>
+              خروج از حساب
+            </DropdownItem>
+          </DropdownSection>
+        </DropdownMenu>
+      </Dropdown>
     </div>
   );
 }
