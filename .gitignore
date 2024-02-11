@@ -9,6 +9,9 @@
 # testing
 /coverage
 
+# intellij idea files
+.idea
+
 # next.js
 /.next/
 /out/
