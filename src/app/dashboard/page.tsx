@@ -14,7 +14,7 @@ export default function page() {
         accusamus qui animi esse officiis recusandae, est natus vel sit unde aperiam temporibus, saepe sapiente. Dolorem officiis ratione quos sequi
         illum corporis odit accusamus. Quam architecto porro quia tenetur illo, vel ea eius voluptatum ipsum ex ab suscipit adipisci iste, quod velit.
         Eius velit reiciendis ipsam vel quia ipsa minima inventore libero eum earum repudiandae tempore autem non corrupti delectus, harum voluptates
-        quos eveniet incidunt error consectetur veniam iste. Suscipit tenetur assumenda consectetur vero facilis temporibus iure, odio minima
+        quos eveniet incidunt error cons ectetur veniam iste. Suscipit tenetur assumenda consectetur vero facilis temporibus iure, odio minima
         doloribus voluptatem ut sequi delectus ullam! Nesciunt perspiciatis voluptate repellat repellendus illum soluta, fugit suscipit quo unde
         numquam ex laborum recusandae, blanditiis, quia nostrum dolorum. Distinctio, libero cupiditate qui sunt at adipisci! Doloremque labore eum
         rem! Modi labore aliquid aliquam vel nesciunt, asperiores ab officiis corporis molestias sit voluptas illum soluta distinctio dicta, nobis
